@@ -1,0 +1,16 @@
+{
+  "name": "chatserver",
+  "version": "1.0.0",
+  "description": "chat server",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "abhishek jawanpuria",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.14.0"
+  }
+}

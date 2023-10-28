@@ -1,0 +1,13 @@
+.textBox{
+    width:400px;
+    height:300px;
+    border:2px solid black;
+    margin:20px 0;
+}
+.msgbox{
+    width:fit-content;
+    border:2px solid black;
+    padding:5px;
+    clear:both;
+    margin:5px;
+}
