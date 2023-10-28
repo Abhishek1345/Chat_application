@@ -13,3 +13,4 @@ The server then sends the recieved data to both the clients .
 
 On recieving the data the client would check the clientID sent through the JSON object.if the clientID is the same as it's own ID the message is displayed on the right , signifying that it was sent by them. If not then the message is displayed on the left , signifying that is was sent by the other client.
 
+PS:The server code given in this repository is hosted independently on render so the clients are sending request to that server
